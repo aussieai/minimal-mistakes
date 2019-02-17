@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aussie.AI"
+title                    : "Aussie.ai"
 title_separator          : "-"
-name                     : "Aussie.AI"
+name                     : "Aussie.ai"
 description              : "Intelligent systems for Australians."
 url                      : "https://aussie.ai"
 baseurl                  : # the subpath of your site, e.g. "/blog"
